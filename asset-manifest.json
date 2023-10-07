@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sanjay892000/Prabhat_News_App/static/css/main.e6c13ad2.css",
-    "main.js": "/sanjay892000/Prabhat_News_App/static/js/main.7a4213e0.js",
-    "static/js/787.4c026eef.chunk.js": "/sanjay892000/Prabhat_News_App/static/js/787.4c026eef.chunk.js",
-    "static/media/spinner.gif": "/sanjay892000/Prabhat_News_App/static/media/spinner.51feed9273fcc4252dde.gif",
-    "index.html": "/sanjay892000/Prabhat_News_App/index.html",
-    "main.e6c13ad2.css.map": "/sanjay892000/Prabhat_News_App/static/css/main.e6c13ad2.css.map",
-    "main.7a4213e0.js.map": "/sanjay892000/Prabhat_News_App/static/js/main.7a4213e0.js.map",
-    "787.4c026eef.chunk.js.map": "/sanjay892000/Prabhat_News_App/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/static/css/main.68d49220.css",
+    "main.js": "/static/js/main.1f87fbf9.js",
+    "static/js/787.4c026eef.chunk.js": "/static/js/787.4c026eef.chunk.js",
+    "static/media/spinner.gif": "/static/media/spinner.51feed9273fcc4252dde.gif",
+    "index.html": "/index.html",
+    "main.68d49220.css.map": "/static/css/main.68d49220.css.map",
+    "main.1f87fbf9.js.map": "/static/js/main.1f87fbf9.js.map",
+    "787.4c026eef.chunk.js.map": "/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.7a4213e0.js"
+    "static/css/main.68d49220.css",
+    "static/js/main.1f87fbf9.js"
   ]
 }
